@@ -1,5 +1,5 @@
 # 💫 Hakkımda:
-<br>🎓Merhaba, ben Zeynep Sena. Konya Teknik Üniversitesi Yazılım Mühendisliği bölümünden mezunum. <br><br>💻 Java, C, C#, React, HTML ve CSS alanlarında bilgi sahibiyim. GitHub’da paylaştığım projeler hem okul projelerimi hem de iş hayatındaki deneyimlerimi içeriyor. Açık kaynak dünyasında daha fazla yer alarak öğrenmeye ve öğrendiklerimi başkalarına sunmaya büyük önem veriyorum.<br><br>🌱 Sürekli yeni şeyler öğrenme ve başkalarıyla bilgi paylaşma tutkusundayım. Yeni projeler veya iş birliği için iletişime geçmekten çekinmeyin! 👩‍💻✨
+<br>🎓Merhaba, ben Zeynep Sena. Konya Teknik Üniversitesi Yazılım Mühendisliği bölümünden mezunum. <br><br>💻 .Net, ASP.NET Core Web API, C#, React, React Native alanlarında bilgi sahibiyim. GitHub’da paylaştığım projeler hem okul projelerimi hem de iş hayatındaki deneyimlerimi içeriyor. Açık kaynak dünyasında daha fazla yer alarak öğrenmeye ve öğrendiklerimi başkalarına sunmaya büyük önem veriyorum.<br><br>🌱 Sürekli yeni şeyler öğrenme ve başkalarıyla bilgi paylaşma tutkusundayım. Yeni projeler veya iş birliği için iletişime geçmekten çekinmeyin! 👩‍💻✨
 
 
 ## 🌐 Socials:
